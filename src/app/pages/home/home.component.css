@@ -1,0 +1,10 @@
+.cover-image {
+    background: fixed center no-repeat url(/assets/img/bg.jpg);
+    background-size: cover;
+}
+
+.our-numbers {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+}
